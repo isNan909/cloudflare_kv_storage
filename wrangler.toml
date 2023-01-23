@@ -1,0 +1,10 @@
+name = "kv-worker-demo"
+type = "webpack"
+main = "src/index.js"
+account_id = "7c19e6034e56458992bcfa4ad76d82e8"
+workers_dev = true
+compatibility_date = "2023-01-21"
+webpack_config = "webpack.config.js"
+kv_namespaces = [
+	{ binding = "SUBSCRIPTIONS", id = "2a0aa9b6c109497ba988e6a20833024a", preview_id = "267e9171373944b9ac246f5e508d0060" }
+]
